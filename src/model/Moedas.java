@@ -1,5 +1,4 @@
 package model;
 
-public record Moeda(String conversion_rates, USD){
-
+public record Moedas(Moeda conversion_rates){
 }
