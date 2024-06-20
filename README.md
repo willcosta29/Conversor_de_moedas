@@ -3,12 +3,12 @@
 # Esse projeto integra a formação Back-End com Java do projeto OneNextEducation em uma parceria: Oracle e Alura 💻📚
 
 # Abaixo uma breve descrição do projeto: 📝
-  - O objetivo é que fosse desenvolvido um conversor de moedas onde a aplicação requisitasse de uma API as cotações em tempo real.
+  - O objetivo é que fosse desenvolvido um conversor de moedas onde a aplicação requisitasse as cotações de uma API em tempo real.
   - É uma aplicação simples, mas com objetivo de colocar em prática o que foi aprendido em orientação a objetos e manipulação do
     Json, atravez principalmente das classes e interfaces: HttpClient, HttpRequest e HttpResponse.
-  - Foi utilizado no projeto também a biblioteca Gson do Google.
+  - Foi utilizado no projeto também a biblioteca Gson.
 
-# Agora um pouco de como foi feito o projeto e como foram ultilizadas as ferramentas: 📝
+# Agora um pouco de como foi feito o projeto e como foram utilizadas as ferramentas: 📝
   
   - O conversor integra a ExchangeRate-API responsável por trazer as cotações das moedas em tempo real.
 
