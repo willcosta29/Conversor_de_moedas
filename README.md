@@ -1,5 +1,7 @@
 # Conversor de Moedas #Challenge
 
+![Badge-Conversor](https://github.com/willcosta29/Conversor_de_moedas/assets/163546595/71288707-f6e8-4d8c-90b5-a5ab18ddc438)
+
 # Esse projeto integra a formação Back-End com Java do projeto OneNextEducation em uma parceria: Oracle e Alura 💻📚
 
 # Abaixo uma breve descrição do projeto: 📝
